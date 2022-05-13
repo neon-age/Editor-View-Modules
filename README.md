@@ -1,6 +1,6 @@
 # Editor-View-Modules
 Customize Toolbars and any EditorWindow with contextual modules.\
-Works best together with [Borderless Unity](https://github.com/neon-age/Borderless-Unity)
+Hide MainToolbar and StatusBar, works best together with [Borderless Unity](https://github.com/neon-age/Borderless-Unity)
 
 [![twitter](https://img.shields.io/twitter/follow/_neonage?style=social)](https://twitter.com/_neonage)\
 [![discord online](https://img.shields.io/discord/830405926078644254?label=Open%20Labs&logo=discord&style=social)](https://discord.gg/uF3sJFMA2j)
