@@ -205,10 +205,6 @@ namespace AV.Toolkit
                 try {
                     if (tabDock != null)
                         UpdateTabDockRect();
-                    
-                    var rect = new Rect(0, 40, 100, 20);
-                    GUI.Button(rect, "test"); rect.y += 25;
-                    GUI.Button(rect, "test"); rect.y += 25;
                     onGUI?.Invoke(); 
                 } 
                 catch(Exception ex) { Debug.LogException(ex); }
